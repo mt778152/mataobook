@@ -1,5 +1,5 @@
-mtbookcity
-
+>mtbookcity
+```
     |——mock
     |    |——user
     |    |    |---user.json    //用户数据
@@ -72,6 +72,7 @@ mtbookcity
     |-gulpfile.js
 ```
 > 部分截图
+```
 
 ![image](./pic/1.png)
 ![image](./pic/2.png)
@@ -79,3 +80,4 @@ mtbookcity
 ![image](./pic/4.png)
 ![image](./pic/5.png)
 ![image](./pic/6.png)
+```
